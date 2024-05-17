@@ -1,4 +1,4 @@
-.body{
+body{
 font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #ffffff;
@@ -11,4 +11,7 @@ background-color: #ffffff;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+.title2{
+    color:#2e2f42;
 }
