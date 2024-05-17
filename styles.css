@@ -97,3 +97,7 @@ color: #2e2f42;
 .third-section-list {
     background-color: #FFFFFF
 }
+.third-section-paragraf {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
