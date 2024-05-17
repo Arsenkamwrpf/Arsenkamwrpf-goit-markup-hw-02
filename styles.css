@@ -18,31 +18,15 @@ body {
     color: #2e2f42;
 }
 
-.studio {
+.nav {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.studio:hover,
-.studio:focus {
-    color: #404bbf;
-}
-
-.portfolio {
-    font-weight: 500
-}
-.portfolio:hover,
-.portfolio:focus {
-    color: #404bbf;
-}
-
-.contacts {
-    font-weight: 500
-}
-.contacts:hover,
-.contacts:focus {
+.nav:hover,
+.nav:focus {
     color: #404bbf;
 }
 .address {
@@ -74,7 +58,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    cursor: pointer;
+    cursor: pointer
 }
 .button:hover,
 .button:focus {
