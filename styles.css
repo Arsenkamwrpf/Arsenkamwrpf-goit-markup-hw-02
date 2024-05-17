@@ -36,8 +36,8 @@ body {
     color: #434455;
 }
 
-.address:hover,
-.address:focus {
+.info:hover,
+.info:active {
     color: #404bbf;
 }
 
