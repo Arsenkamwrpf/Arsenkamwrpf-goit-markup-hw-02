@@ -26,7 +26,7 @@ body {
 }
 
 .nav:hover, 
-.nav:active {
+.nav:focus {
     color: #404bbf;
 }
 .address {
@@ -35,9 +35,13 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.address:hover,
+.address:focus {
+    color: #404bbf;
+}
 
 .info:hover,
-.info:active {
+.info:focus {
     color: #404bbf;
 }
 
