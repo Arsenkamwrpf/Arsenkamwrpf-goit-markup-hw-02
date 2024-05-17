@@ -15,19 +15,22 @@ background-color: #ffffff;
 .title2 {
     color:#2e2f42;
 }
-.Studio {
+.studio {
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.Studio:hover,
-.Studio:active{
+.studio:hover,
+.studio:active{
 color: #404bbf;
 }
-.Portfolio{
+.portfolio{
 font-weight: 500
 }
-.Contacts{
+.contacts{
 font-weight: 500
+}
+.address{
+
 }
