@@ -68,6 +68,13 @@ body {
 .button:focus {
 background-color: #404BBF;
 }
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
 
 .second-section-small-title{
 font-weight: 500;
